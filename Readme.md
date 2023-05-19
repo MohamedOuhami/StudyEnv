@@ -6,7 +6,6 @@
 StudyEnv is a web/mobile app that is made for Students who want to create their customized studying environment ( Study Timer, Study Notes, Study Music, study with Spaced Repetition and cards ... )
 
 You can share your env with your friends, create your own study group and other functionalitites
----
 
 ## Functional needs ( Features )
 These are the main features of StudyEnv ( Open for modification)
